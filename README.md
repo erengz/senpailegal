@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @senpailegal
 - 
-- 👀 I’m interested in ...
+- 👀 I’m interested in 
 - 
 - 🌱 I’m currently learning ...
 - 
