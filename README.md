@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SenpaiLegal</h1>
+<h1 align="center">SenpaiLegal</h1>
 <h3 align="center">Junior Cyber Security Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senpailegal&label=Profile%20views&color=0e75b6&style=flat" alt="senpailegal" /> </p>
