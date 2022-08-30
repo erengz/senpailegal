@@ -1,6 +1,5 @@
   |||
-|--|--|
-|  |
+--|--
 | Ziyaretçi sayısı:					|	![counter](https://profile-counter.glitch.me/%7Bsenpailegal%7D/count.svg)
 | İletişim:        | [![instagram](https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-22.png)](https://instagram.com/erengrbz0)  |
   
