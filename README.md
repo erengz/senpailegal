@@ -1,15 +1,8 @@
-<h1 align="center">SenpaiLegal</h1>
-<h3 align="center">Junior Cyber Security Architect</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senpailegal&label=Profile%20views&color=0e75b6&style=flat" alt="senpailegal" /> </p>
-
-- 🔭 I’m currently working on **Senpai Tools**
-
-- 🌱 I’m currently learning **Frameworks, Web Servers**
-
-- 📫 How to reach me **senpailegal@protonmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/senpailegal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senpailegal" height="30" width="40" /></a>
-</p>
+  |||
+|--|--|
+|  |
+| Ziyaretçi sayısı:					|	![counter](https://profile-counter.glitch.me/%7Bsenpailegal%7D/count.svg)
+| İletişim:        | [![instagram](https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-22.png)](https://instagram.com/erengrbz0)  |
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u9w3maxcrvobq9b0jgmvo9mbn&cover_image=true&theme=novatorem&bar_color=7f7f7f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ 
