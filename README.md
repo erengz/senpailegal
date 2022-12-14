@@ -21,7 +21,7 @@ let me = Developer()
 me.sayHi()
 ```
 
-## Links
+## Links 
 
 - **Website:** https://www.senpailegal.cf
 - **LinkedIn:** https://www.linkedin.com/in/erengrbz
