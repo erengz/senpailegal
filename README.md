@@ -9,7 +9,7 @@ struct Developer {
   let age = 17
   let role = "Python & App Developer"
   let location = "Turkey 🇹🇷"
-  let languages = ["tr_TR", "en_US"]
+  let languages = ["tr_TR", "en_US" ,"de_DE"]
   let skills = ["Html", "Swift", "Python"]
   
   func sayHi() {
