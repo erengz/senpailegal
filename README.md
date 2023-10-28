@@ -23,7 +23,6 @@ me.sayHi()
 
 ## Links 
 
-- **Website:** https://www.senpailegal.cf
 - **LinkedIn:** https://www.linkedin.com/in/erengrbz
 
 
